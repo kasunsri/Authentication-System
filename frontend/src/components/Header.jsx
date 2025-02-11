@@ -17,7 +17,7 @@ const Header = () => {
             <img className='w-8 aspect-square' src={assets.hand_wave} alt="" />
         </h1>
 
-        <h2 className='text-3xl sm:text-5xl font-semibold mb-4'>Welcome to App...</h2>
+        <h2 className='text-3xl sm:text-5xl font-semibold mb-4'>Welcome to App Authentication System...</h2>
 
         <p className='mb-8 max-w-md'>Lets explore with a us and we will have you up and running in no time</p>
 
